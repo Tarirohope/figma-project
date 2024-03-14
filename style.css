@@ -1,0 +1,68 @@
+/* <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 400 to 900*/
+
+.playfair-di {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
+.poppins-light-italic {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+.fab {
+  color: blue;
+  font-size: medium;
+}
+.hero h1 {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  font-size: 76px;
+  color: white;
+  padding-top: 50px;
+}
+.hero {
+  background-image: url("images/overlay.png");
+  margin-top: 50px;
+}
+.hero p {
+  color: white;
+  line-height: 35px;
+  font-weight: bold;
+  padding-bottom: 30px;
+}
+row {
+  margin-bottom: 30px;
+}
+.row p {
+  font-family: "Playfair Display", serif;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 5px;
+  line-height: normal;
+}
+.container-img {
+  border-radius: 12px;
+  width: 560px;
+  height: 350px;
+  margin-top: 30px;
+}
+.container-footer {
+  margin-top: 60px;
+  background-color: #f9f7fe;
+  padding: 40px auto;
+}
+ul {
+  list-style: none;
+  display: flex;
+}
+
+.footer-paragraph {
+  font-size: 16px;
+  font-weight: lighter;
+  font-family: sans-serif;
+}
