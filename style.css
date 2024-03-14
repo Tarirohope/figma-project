@@ -56,9 +56,11 @@ row {
   background-color: #f9f7fe;
   padding: 40px auto;
 }
-ul {
-  list-style: none;
+.theicons {
   display: flex;
+}
+i {
+  font-size: 32px;
 }
 
 .footer-paragraph {
@@ -66,10 +68,16 @@ ul {
   font-weight: lighter;
   font-family: sans-serif;
 }
-.nav-link {
-  color: #272142;
+header {
+  color: red;
+  padding-bottom: 30px;
+  font-weight: bold;
+  font-size: 16px;
 }
-.container-fluid {
-  display: flex;
-  justify-content: space-evenly;
+
+.nav-link {
+  color: midnightblue;
+}
+.nav-link:hover {
+  color: darkviolet;
 }
