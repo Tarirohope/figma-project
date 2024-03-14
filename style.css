@@ -66,3 +66,10 @@ ul {
   font-weight: lighter;
   font-family: sans-serif;
 }
+.nav-link {
+  color: #272142;
+}
+.container-fluid {
+  display: flex;
+  justify-content: space-evenly;
+}
