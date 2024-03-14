@@ -47,8 +47,8 @@ row {
 }
 .container-img {
   border-radius: 12px;
-  width: 560px;
-  height: 350px;
+  /* width: 560px;
+  height: 350px;*/
   margin-top: 30px;
 }
 .container-footer {
