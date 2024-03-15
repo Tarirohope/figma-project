@@ -1,23 +1,17 @@
 /* <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 400 to 900*/
-
-.playfair-di {
-  font-family: "Playfair Display", serif;
-  font-optical-sizing: auto;
-  font-weight: 100;
+// <weight>: Use a value from 200 to 1000*/
+body {
+  font-family: "Nunito", sans-serif;
+  font-size: auto;
+  font-weight: ;
   font-style: normal;
-}
-.poppins-light-italic {
-  font-family: "Poppins", sans-serif;
-  font-weight: 300;
-  font-style: italic;
 }
 .fab {
   color: blue;
   font-size: medium;
 }
 .hero h1 {
-  font-family: "Playfair Display", serif;
+  font-family: "Nunito", sans-serif;
   font-optical-sizing: auto;
   font-weight: bold;
   font-style: normal;
@@ -39,7 +33,7 @@ row {
   margin-bottom: 30px;
 }
 .row p {
-  font-family: "Playfair Display", serif;
+  font-family: "Nunito", sans-serif;
   font-size: 24px;
   font-weight: bold;
   margin-top: 5px;
@@ -66,10 +60,9 @@ i {
 .footer-paragraph {
   font-size: 16px;
   font-weight: lighter;
-  font-family: sans-serif;
+  font-family: "Nunito", sans-serif;
 }
 header {
-  color: red;
   padding-bottom: 30px;
   font-weight: bold;
   font-size: 16px;
@@ -80,4 +73,29 @@ header {
 }
 .nav-link:hover {
   color: darkviolet;
+}
+.hero-two {
+  font-family: "Nunito", sans-serif;
+  color: midnightblue;
+  margin-top: 40px;
+  font-weight: bold;
+  font-size: 72px;
+}
+.about-paragraph {
+  font-size: 18px;
+  font-weight: lighter;
+}
+.the-name {
+  font-weight: bold;
+  font-size: 64px;
+  color: midnightblue;
+  font-family: "Nunito", sans-serif;
+}
+.follow {
+  font-size: 18px;
+}
+h4 {
+  font-size: 36px;
+  font-weight: bolder;
+  color: midnightblue;
 }
