@@ -127,3 +127,14 @@ h5 {
 i {
   font-size: 24px;
 }
+@media (max-width: 576px) {
+  .hero h1,
+  .contact-heading,
+  .recipe-heading,
+  .hero-two {
+    font-size: 50px;
+  }
+  .row p {
+    font-size: 18px;
+  }
+}
