@@ -129,8 +129,8 @@ i {
 }
 @media (max-width: 576px) {
   .hero h1,
-  .contact-heading,
-  .recipe-heading,
+  .contact-us-heading,
+  .recipe-collectio-heading,
   .hero-two {
     font-size: 50px;
   }
