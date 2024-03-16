@@ -99,3 +99,18 @@ h4 {
   font-weight: bolder;
   color: midnightblue;
 }
+hr {
+  border-top: 1px dashed #67d5d6;
+}
+.steps {
+  color: #f65282;
+  font-weight: bolder;
+  font-size: 18px;
+}
+.recipe-collection-heading {
+  font-size: 72px;
+  text-align: center;
+  color: midnightblue;
+  margin-top: 70px;
+  margin-bottom: 60px;
+}
