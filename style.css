@@ -140,4 +140,12 @@ i {
   .the-name {
     font-size: 35px;
   }
+  .container-footer {
+    text-align: center;
+  }
+  .theicons {
+    display: block;
+    justify-content: center;
+    margin-bottom: 5px;
+  }
 }
