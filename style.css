@@ -137,4 +137,7 @@ i {
   .row p {
     font-size: 18px;
   }
+  .the-name {
+    font-size: 35px;
+  }
 }
